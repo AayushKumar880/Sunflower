@@ -51,36 +51,5 @@ from the ktlint [README](https://github.com/shyiko/ktlint/blob/master/README.md)
 
 - Start Android Studio
 
-Additional resources
---------------------
-Check out these Wiki pages to learn more about Android Sunflower:
 
-- [Notable Community Contributions](https://github.com/android/sunflower/wiki/Notable-Community-Contributions)
 
-- [Publications](https://github.com/android/sunflower/wiki/Sunflower-Publications)
-
-Non-Goals
----------
-Previously, this sample app was focused on demonstrating best practices for
-multiple Jetpack libraries. However, this is no longer the case and development
-will instead be focused on how to adopt Compose in an existing View-based app.
-So, there are no plans to implement features outside of this scope. Keep this
-in mind when making contributions to this library.
-
-Support
--------
-
-- Stack Overflow:
-  - https://stackoverflow.com/questions/tagged/android-jetpack-compose
-
-If you've found an error in this sample, please file an issue:
-https://github.com/android/sunflower/issues
-
-Patches are encouraged, and may be submitted by forking this project and submitting a pull request
-through GitHub.
-
-Third Party Content
--------------------
-Select text used for describing the plants (in `plants.json`) are used from Wikipedia via CC BY-SA 3.0 US (license in `ASSETS_LICENSE`).
-
-"[seed](https://thenounproject.com/search/?q=seed&i=1585971)" by [Aisyah](https://thenounproject.com/aisyahalmasyira/) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode)
